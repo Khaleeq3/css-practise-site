@@ -50,6 +50,12 @@ a:hover {
 span {
   text-decoration: underline;
 }
+
+p {
+  width: 40%;
+  margin: auto;
+}
+
 .top-container{
   position: relative;
   background-color: #EAF6F6;
